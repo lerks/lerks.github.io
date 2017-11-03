@@ -1,0 +1,28 @@
+title: My awesome title
+email: luca.wehrstedt@gmail.com
+description: >-
+    Things and stuff...
+baseurl: ""
+url: "https://lerks.github.io"
+# twitter_username: LucaWehrstedt
+github_username: lerks
+linkedin_username: lucawehrstedt
+# google_plus_username: LucaWehrstedt
+facebook_username: luca.wehrstedt
+
+google_analytics: "UA-109195577-1"
+disqus:
+    shortname: lerks
+
+markdown: kramdown
+theme: minima
+timezone: "Europe/Paris"
+plugins:
+    - jekyll-feed
+    # - jekyll-redirect-from
+    # - jekyll-seo-tag
+    # - jekyll-sitemap
+    # - jekyll-avatar
+    # - jemoji
+    # - jekyll-mentions
+    # - jekyll-include-cache
