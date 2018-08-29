@@ -1,12 +1,12 @@
-title: My awesome title
+title: ./luca.wehrstedt.sh
 email: luca.wehrstedt@gmail.com
 description: >-
     Things and stuff...
 baseurl: ""
-url: "http://luca.wehrstedt.me"
-# twitter_username: LucaWehrstedt
+url: "https://lcw.sh"
+twitter_username: LucaWehrstedt
 github_username: lerks
-linkedin_username: lucawehrstedt
+linkedin_username: lcw
 # google_plus_username: LucaWehrstedt
 facebook_username: luca.wehrstedt
 
